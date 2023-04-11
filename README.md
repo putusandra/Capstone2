@@ -1,13 +1,13 @@
-1. Pendahuluan**
+1. Pendahuluan
 
-1.1 Latar Belakang**
+1.1 Latar Belakang
 
 Customer Personality Analysis berikut ini adalah upaya perusahaan menggunakan data transaksi yang dikumpulkan selama dua tahun (antara 2012-2014) untuk melihat karakteristik pelanggan serta hubungannya terhadap perilaku belanja pelanggan pada masing-masing produk yang ditawarkan dan *campaign* yang dilakukan. Data disusun berdasarkan strategi *marketing* 4P: *People, Product, Promotion and Place.*
 
 Hasil dari analisa ini diharapkan mampu memberi gambaran bagi  perusahaan mengenai kinerja *campaign* yang telah dilakukan. Serta memberi insight dalam menyusun perencanaan *marketing campaign* yang efektif dan efisien di masa depan. 
 
 
-1.2 Rumusan Masalah**
+1.2 Rumusan Masalah
 
 Perusahaan ingin memaksimalkan *marketing campaign* produk agar tepat sasaran sesuai kelompok pelanggan yang berpeluang besar untuk melakukan transaksi. Selain itu, menerapkan strategi diskon dan beriklan melalui platform/pendekatan yang paling efektif berdasarkan demografi pelanggan. Baik melalui online maupun offline marketing. Data analyst membuat usulan berdasarkan pertanyaan berikut:
 
